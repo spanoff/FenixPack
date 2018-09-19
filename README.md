@@ -37,12 +37,12 @@ Click on image to view fullscreen and zoom
 ### Desktop
 [IMAGE](https://github.com/spanoff/spanoff.github.io/blob/master/fenixpack/img/desktop.png)
 
-![Fenixpack Desktop](https://raw.githubusercontent.com/spanoff/spanoff.github.io/master/fenixpack/img/desktop.png)
+![Fenixpack Desktop](https://raw.githubusercontent.com/spanoff/fenixpack/master/img/desktop.png)
 
 ### Mobile 
 [IMAGE](https://github.com/spanoff/spanoff.github.io/blob/master/fenixpack/img/mobile.png)
 
-![Fenixpack Mobile](https://raw.githubusercontent.com/spanoff/spanoff.github.io/master/fenixpack/img/mobile.png)
+![Fenixpack Mobile](https://raw.githubusercontent.com/spanoff/fenixpack/master/img/mobile.png)
 
 ## Core Structure
     code
