@@ -1,0 +1,42 @@
+{
+  "product": {
+    "types": {
+      "interdoors": {
+        "id": 1,
+        "name": "Двери межкомнатные"
+      },
+      "entranse": {
+        "id": 2,
+        "name": "Двери входные"
+      },
+      "arches": {
+        "id": 3,
+        "name": "Арки межкомнатные"
+      }
+    }
+  },
+  "user": {
+    "roles": {
+      "admin": "ADMIN",
+      "user": "USER"
+    },
+    "seria": {
+      "cityline": {
+        "id": 1,
+        "name": "Серия CityLine"
+      },
+      "monolith": {
+        "id": 2,
+        "name": "Серия Монолит"
+      },
+      "seriaz": {
+        "id": 3,
+        "name": "Серия Z"
+      },
+      "seriax": {
+        "id": 4,
+        "name": "Серия X"
+      }
+    }
+  }
+}

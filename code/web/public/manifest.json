@@ -1,0 +1,8 @@
+{
+  "name": "ТМ Феникс",
+  "short_name": "Fenixpack",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#e5ae49",
+  "theme_color": "#dc5e40"
+}
